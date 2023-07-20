@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "title": "Вершкова полуниця",
+    "price": 30,
+    "image": "img/clubnik.jpg",
+    "size": "300мл"
+  },
+  {
+    "id": 2,
+    "title": "Лісові ягоди",
+    "price": 35,
+    "image": "img/yagod.jpg",
+    "size": "300мл"
+  },
+  {
+    "id": 3,
+    "title": "Лайм та м'ята",
+    "price": 38,
+    "image": "img/lam.jpg",
+    "size": "300мл"
+  },
+  {
+    "id": 4,
+    "title": "Карамельний банан",
+    "price": 32,
+    "image": "img/banan.jpg",
+    "size": "320мл"
+  },
+  {
+    "id": 5,
+    "title": "Ківі та яблуко",
+    "price": 30,
+    "image": "img/kivi.jpg",
+    "size": "300мл"
+  },
+  {
+    "id": 6,
+    "title": "Соковитий манго",
+    "price": 40,
+    "image": "img/mango.jpg",
+    "size": "280мл"
+  },
+  {
+    "id": 7,
+    "title": "Маракуйя",
+    "price": 40,
+    "image": "img/maraka.jpg",
+    "size": "280мл"
+  }
+]
